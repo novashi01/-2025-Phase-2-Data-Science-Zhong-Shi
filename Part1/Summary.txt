@@ -1,0 +1,42 @@
+# Summary
+
+## W Store Sales Data Analysis
+This analysis of the W Store sales data from 2010-2012 reveals key drivers of sales and provides insights into the company's operational and promotional strategies.
+
+- **Key Drivers of Weekly Sales:**  
+  - Store Size is the strongest predictor of weekly sales, with larger stores consistently outperforming smaller ones.
+  - Economic factors (Temperature, Fuel Price, CPI, Unemployment) show minimal direct impact on weekly sales, suggesting local store factors and promotions are more influential.
+  - Negative sales values are present and represent weeks where customer returns exceeded sales, a valid business scenario.
+
+- **Promotional Strategy Insights:**  
+  - MarkDown promotions are often bundled, with certain combinations (e.g., MarkDown1 + MarkDown4) appearing frequently together, indicating strategic planning.
+  - Some MarkDowns are used independently, while others are highly correlated, forming clusters of promotional activity.
+  - Analysis of active MarkDowns shows that most weeks have zero or one active promotion, but a small number of weeks feature multiple concurrent promotions, which tend to drive higher sales.
+
+- **Outcome:**  
+  - The analysis identifies that focusing on store size and optimizing promotional bundles can drive sales growth.
+  - Economic conditions are less relevant for short-term sales forecasting.
+  - Returns management is important for understanding negative sales periods.
+
+## X Store Sales Data Analysis
+This analysis of the X Store e-commerce data reveals critical insights into sales performance, profitability drivers, and the effectiveness of its pricing and regional strategies.
+
+- **Key Drivers of Profitability and Sales:**  
+  - Discount is the primary driver of profit loss; higher discounts correlate strongly with lower profits, especially in certain sub-categories.
+  - Sales volume is driven by quantity sold, but high sales do not always translate to high profit.
+  - Customer segments (Consumer, Corporate, Home Office) show different profit margins, with Corporate customers generally yielding higher margins.
+
+- **Regional and Strategic Insights:**  
+  - There is a geographical imbalance in both sales and profit, with some regions (e.g., West) generating high sales but lower profit margins due to aggressive discounting.
+  - The "money-losing sale" strategy is confirmed, especially in cities with high sales but negative profits, indicating that discounts are used to boost volume at the expense of profitability.
+  - Top sales cities are not always the most profitable, highlighting the need for region-specific strategies.
+
+- **Product & Shipping Insights:**  
+  - Certain sub-categories (e.g., Tables, Bookcases) are consistently unprofitable, suggesting a need to review pricing or discontinue these products.
+  - Shipping mode analysis shows that while most orders use Standard Class, the impact on profit is minor compared to discount and product selection.
+  - Product series analysis reveals "Star Series" (high profit, low discount) and "Profit Killer Series" (low profit, high discount), guiding future product and pricing decisions.
+
+- **Outcome:**  
+  - The analysis recommends reducing discounts in loss-making categories and regions, focusing on profitable customer segments, and optimizing product portfolios.
+  - Shipping mode is less critical, but monitoring for cost efficiency is advised.
+  - Data-driven strategies can improve both sales and profitability by targeting the right
